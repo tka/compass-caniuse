@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    execjs (1.2.12)
+      multi_json (~> 1.0)
+    multi_json (1.0.4)
+    nokogiri (1.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  execjs
+  nokogiri
